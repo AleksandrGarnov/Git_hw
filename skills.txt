@@ -1,0 +1,4 @@
+Programming skills
+CI/CD
+Docker
+Selenium WebDriver
