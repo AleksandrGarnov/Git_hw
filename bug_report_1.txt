@@ -1,0 +1,18 @@
+
+Title:
+редирект на страницу новости с ошибкой при открытии статьи FXSTREET в разделе About в Media Center
+Description:
+В разделе About в Media Center  при открытии статьи FXSTREET происходит редирект на страницу новости с ошибкой "The page you requested was removed"  
+Steps to reproduce:
+1. Открыть сайт capital.com 
+2. Выбрать лиценцию NBRB
+3.Открыть бургер-меню
+4. Перейти в раздел About/Media Center
+5.В меню навигации выбрать "capital.com in news"
+6. На статье FXSTREET кликнуть Read More
+Severity:
+Minor
+Expected Result
+Редирект на страницу с действующей статьей
+Actual Result
+В открывшейся вкладке ошибка "The page you requested was removed"
