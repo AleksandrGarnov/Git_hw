@@ -1,1 +1,16 @@
 
+Title:
+Пересечение с полем trade в виджете Most Traded  разделе [Learn to trade]
+Description:
+В разделе [Learn to trade] и подразделе [Cryptocurrency trading guide] в виджете Most Traded стоимость криптовалют пересекаются с полем Trade  
+Steps to reproduce:
+1. Открыть сайт capital.com 
+2. Перейти в раздел [Learn to trade]
+3. Перейти в подраздел [Cryptocurrency trading guide]
+4. Скролл до виджета Most Traded
+Severity:
+Trivial
+Expected Result
+В виджете Most Traded значения стоимости криптовалют не пересекаются с полем Trade
+Actual Result
+В виджете Most Traded значения стоимости криптовалют пересекаются с полем Trade
